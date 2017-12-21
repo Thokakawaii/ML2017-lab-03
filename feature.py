@@ -45,4 +45,3 @@ class NPDFeature():
                 else:
                     table[i][j] = (i - j) / (i + j)
         return table
-
